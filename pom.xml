@@ -94,7 +94,7 @@
 				<version>1.1.1</version>
 				<configuration>
 					<assembleDirectory>target</assembleDirectory>
-					<generateRepository>false</generateRepository>
+					<generateRepository>true</generateRepository>
 					<programs>
 						<program>
 							<mainClass>org.chamerling.heroku.jetty.JettyServer</mainClass>
